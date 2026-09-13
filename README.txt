@@ -1,6 +1,5 @@
 Bag of Visual Words Project.
-You can find more information about Bag of Visual Words and the experiment 
-conducted for the project in the Power Point presentation.
+You can find more information about Bag of Visual Words and the experiment conducted for the project in the Power Point presentation in the pdf.
 
 
 The datasets used for this project are available at the links:
